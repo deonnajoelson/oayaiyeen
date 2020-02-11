@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexahhaech.calmdown.rocks/sitemap.xml
